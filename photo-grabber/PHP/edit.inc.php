@@ -13,7 +13,7 @@
 </style>
 
 <button class="alldel btn btn-primary">Select all</button>
-<a href="<?php echo DOMAIN_ADMIN;?>plugin/photograbber?files" class="alldel btn btn-dark" >Back to uploader</a>
+<a href="<?php echo DOMAIN_ADMIN;?>plugin/photograbber?files" class="alldel btn btn-dark" >Back to PG list</a>
 <hr>
 <form method="POST">
   <input type="hidden" id="jstokenCSRF" name="tokenCSRF" value="<?php echo $tokenCSRF;?>">

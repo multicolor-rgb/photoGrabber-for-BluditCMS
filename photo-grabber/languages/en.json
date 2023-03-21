@@ -2,6 +2,6 @@
 	"plugin-data":
 	{
 		"name": "Photo Grabber",
-		"description": "Download photo to your cms"
+		"description": "Download photos from CC0 database direct to your CMS"
 	}
 }
